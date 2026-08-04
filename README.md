@@ -26,7 +26,7 @@ A modern, high-performance, dark-themed personal portfolio website built with cl
 parthsingh19_portfolio/
 ├── index.html        # Main semantic HTML5 markup
 ├── style.css         # Modern CSS variables, glassmorphism, responsive styles & brand themes
-├── script.js        # Particles canvas, terminal typewriter, scroll reveal & card tilt
+├── script.js         # Particles canvas, terminal typewriter, scroll reveal & card tilt
 ├── Photo.jpg         # Profile image
 └── README.md         # Documentation & setup guide
 ```
